@@ -8,5 +8,8 @@ We hebben ook nog een windmeter die aangesloten is, deze werkt momenteel nog nie
 Om de rs485 signalen van de windmeter om te zetten naar seriële data gebruiken we MAXRS485.
 Het uitlezen met arduino ging wel.
 
+Alle programma's zijn terug te vinden in main en libraries.
+enkel de windmeter is terug te vinden in windmeter test.
+
 Dit is de module die we gebruiken.
 ![ttgo module](https://user-images.githubusercontent.com/101976886/159165997-53bbe0ab-8899-488d-afb9-a97aff89f193.jpg)
