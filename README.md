@@ -13,3 +13,6 @@ enkel de windmeter is terug te vinden in windmeter test.
 
 Dit is de module die we gebruiken.
 ![ttgo module](https://user-images.githubusercontent.com/101976886/159165997-53bbe0ab-8899-488d-afb9-a97aff89f193.jpg)
+
+Om dit project na te maken, zie je exact hoe alles verbonden is.
+![schema](https://user-images.githubusercontent.com/101976886/159168420-c9ce6742-8636-4b8e-84d3-77c44e850bb1.png)
