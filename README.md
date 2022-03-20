@@ -1,3 +1,4 @@
+![ttgo module](https://user-images.githubusercontent.com/101976886/159165997-53bbe0ab-8899-488d-afb9-a97aff89f193.jpg)
 # project-datacommunicatie
 Dit is een project waarbij we werken met 2 ttgo esp32 modules die we programmeren met micropython.
 De ene module bevat een bmp280, deze module bevat de functionaliteit van een temperatuursensor en een barrometer.
