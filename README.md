@@ -1,6 +1,6 @@
 # project-datacommunicatie
 Alle info over dit project vindt u terug in de file weerstation.docx
-Dit is een project waarbij we werken met 2 ttgo esp32 modules die we programmeren met micropython.
+Dit is een project waarbij we werken met 2 ttgo esp32 modules die we programmeren met micropython in de software Thonny ide versie 3.3.13.
 De ene module bevat een bmp280, deze module bevat de functionaliteit van een temperatuursensor en een barrometer.
 De gegevens van deze module worden doorgestuurd via de ingebouwde LoRa module op de chip.
 Bij de ontvanger krijgen we de data te zien op het builtin OLED scherm.
