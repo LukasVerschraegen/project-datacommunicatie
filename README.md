@@ -1,4 +1,5 @@
 # project-datacommunicatie
+Alle info over dit project vindt u terug in de file weerstation.docx
 Dit is een project waarbij we werken met 2 ttgo esp32 modules die we programmeren met micropython.
 De ene module bevat een bmp280, deze module bevat de functionaliteit van een temperatuursensor en een barrometer.
 De gegevens van deze module worden doorgestuurd via de ingebouwde LoRa module op de chip.
